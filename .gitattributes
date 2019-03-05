@@ -1,0 +1,4 @@
+nn_model/DNet_dec.h5 filter=lfs diff=lfs merge=lfs -text
+nn_model/DNet_enc.h5 filter=lfs diff=lfs merge=lfs -text
+nn_model/SNet_dec.h5 filter=lfs diff=lfs merge=lfs -text
+nn_model/SNet_enc.h5 filter=lfs diff=lfs merge=lfs -text
